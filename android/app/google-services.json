@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "228676204957",
+    "firebase_url": "https://appforautism.firebaseio.com",
+    "project_id": "appforautism",
+    "storage_bucket": "appforautism.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228676204957:android:06a1374b6f7290a8521774",
+        "android_client_info": {
+          "package_name": "capstoneproject.capstone_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228676204957-hd66bederggkovnt0i57jfd12n1u7vt6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "capstoneproject.capstone_project",
+            "certificate_hash": "c3753a7db62846a4216cada566f35bb21e00414c"
+          }
+        },
+        {
+          "client_id": "228676204957-tja8fb3v4k4020nu10e0v25viejtp36b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "capstoneproject.capstone_project",
+            "certificate_hash": "b991326869dd1a9e49f46a56a150961e90aeab35"
+          }
+        },
+        {
+          "client_id": "228676204957-k1t4ptvr2qtldm4j481p9kjddqv7lk0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGx-DAZKkdr4buG6YY97hDDdEo1-DXcBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228676204957-k1t4ptvr2qtldm4j481p9kjddqv7lk0d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "228676204957-mhj0qnr5er6ib5u6f8ct4cts9gfcgaij.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "capstoneproject.facebookLogin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228676204957:android:cded366f0b7f7ae6521774",
+        "android_client_info": {
+          "package_name": "capstoneproject.facebook_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228676204957-vobeq7t1uf5ub2enfi5c311alempkqgc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "capstoneproject.facebook_login",
+            "certificate_hash": "c3753a7db62846a4216cada566f35bb21e00414c"
+          }
+        },
+        {
+          "client_id": "228676204957-1qhpgrtdnfdn6q96tao030jn5osapfuk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "capstoneproject.facebook_login",
+            "certificate_hash": "b991326869dd1a9e49f46a56a150961e90aeab35"
+          }
+        },
+        {
+          "client_id": "228676204957-k1t4ptvr2qtldm4j481p9kjddqv7lk0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGx-DAZKkdr4buG6YY97hDDdEo1-DXcBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228676204957-k1t4ptvr2qtldm4j481p9kjddqv7lk0d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "228676204957-mhj0qnr5er6ib5u6f8ct4cts9gfcgaij.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "capstoneproject.facebookLogin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
